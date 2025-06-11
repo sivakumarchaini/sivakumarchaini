@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Siva 👋
 
-<!--
-**sivakumarchaini/sivakumarchaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & DevSecOps Engineer (F1 OPT)  
+🔧 Terraform · GitHub Actions · Kubernetes · AWS · Docker  
+📍 Based in Texas | Open to Contract / Freelance / Full-Time
 
-Here are some ideas to get you started:
+## 🔨 Projects I'm Building
+- CI/CD Pipeline with GitHub Actions + SonarQube (in progress)
+- Kubernetes deployment with Helm & monitoring stack
+- AWS cost optimization with auto-scheduling Lambda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sivakumarchaini)
+- [Portfolio](https://main.ddlmax1fsiich.amplifyapp.com/)
