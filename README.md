@@ -14,4 +14,3 @@
 - [Portfolio](https://main.ddlmax1fsiich.amplifyapp.com/)
 
 
-🔗 [CI/CD Pipeline Repo](https://github.com/sivakumarchaini/ci-cd-pipeline)
